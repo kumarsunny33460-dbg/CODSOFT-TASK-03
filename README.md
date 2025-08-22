@@ -21,7 +21,8 @@ It combines **Convolutional Neural Networks (CNNs)** for image feature extractio
 ---
 
 ## 🖼️ Sample Output  
-![alt text](<Screenshot 2025-08-22 225422-1.png>)
+<img width="726" height="591" alt="Screenshot 2025-08-22 225422" src="https://github.com/user-attachments/assets/e475aadb-c0e9-4b79-9ead-306dadd08c12" />
+
 **Generated Caption:** *"A dog is standing on the grass and looking to the side."*  
 
 ---
